@@ -1,9 +1,9 @@
 class ChannelsHlsServer < Formula
   desc "Simple tool to stream a channel from your Channels DVR instance to an external-facing HLS server"
   homepage "https://github.com/colemccarren/homebrew-channels-hls-server"
-  url "https://raw.githubusercontent.com/colemccarren/homebrew-channels-hls-server/main/channels-hls-server"
+  url "https://github.com/colemccarren/homebrew-channels-hls-server/releases/download/v0.1/channels-hls-server-0.1.tar.gz"
   version "0.1"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "bc412dabc5c625f847db0730d22322584692c9c8c16713f91c237fb1c7de29c9"
   license "MIT"
 
   depends_on "bash"
