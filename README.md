@@ -1,6 +1,5 @@
 # channels-hls-server
-
-Simple HLS server for sharing a live channel from your Channels DVR server.
+A simple tool to stream a channel from your Channels DVR instance. Easily spin up an external-facing HLS server for a specified duration of time.
 
 ## Requirements
 
