@@ -11,7 +11,7 @@ class ChannelsHlsServer < Formula
   depends_on "python@3"
 
   def install
-    bin.install "channels-hls-server.sh", "channels-hls-server"
+    bin.install "channels-hls-server.sh", => "channels-hls-server"
   end
 
   test do
