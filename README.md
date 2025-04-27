@@ -6,6 +6,7 @@ Simple HLS server for sharing a live channel from your Channels DVR server.
 
 - python 3
 - ffmpeg
+- On your home network, forward **TCP port 8090** to the internal IP address of the machine running the script.
 - **Important:** This script **must** run on the same machine as your Channels DVR server.
 
 ## Install
@@ -41,6 +42,8 @@ The script will:
 - Check your machine's local IP address.
 - Spin up the necessary Python and `ffmpeg` processes.
 - Serve a remote HLS (`.m3u8`) stream via your public IP address!
+
+To watch, open the URL in VLC or a web browser that supports HLS playback.
 
 ## Stopping the Server
 
