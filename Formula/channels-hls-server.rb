@@ -3,7 +3,7 @@ class ChannelsHlsServer < Formula
   homepage "https://github.com/colemccarren/homebrew-channels-hls-server"
   url "https://github.com/colemccarren/homebrew-channels-hls-server/releases/download/v0.1/channels-hls-server-0.1.tar.gz"
   version "0.1"
-  sha256 "bc412dabc5c625f847db0730d22322584692c9c8c16713f91c237fb1c7de29c9"
+  sha256 "5245bceb26cde18632962b6be9ca173f38180a6c2539279ee31901ef7d49f97d"
   license "MIT"
 
   depends_on "bash"
