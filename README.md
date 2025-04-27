@@ -46,7 +46,7 @@ To watch, open the URL in VLC or a web browser that supports HLS playback.
 
 ## Stopping the Server
 
-If you started `channels-hls-server` over an SSH session and your terminal was interrupted, you can stop the background processes by running:
+Out and about? Started `channels-hls-server` over an SSH session from your mobile phone and lost your terminal window? You can always stop the background processes by running:
 
 ```bash
 channels-hls-server stop
