@@ -40,7 +40,7 @@ The script will:
 
 - Check your machine's local IP address.
 - Spin up the necessary Python and `ffmpeg` processes.
-- Serve a remote HLS (`.m3u8`) stream via your public IP address.
+- Serve a remote HLS (`.m3u8`) stream via your public IP address!
 
 ## Stopping the Server
 
